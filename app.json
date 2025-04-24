@@ -60,7 +60,7 @@
     },
     "AD_API": {
       "description": "Batch size for premium users",
-      "value": "52b4a2cf4687d81e7d3f8f2b7bc2943f618e78cb",
+      "value": "1e77a6ec377d28e58247dd22de886d39",
       "required": false
     },
     
